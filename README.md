@@ -43,7 +43,7 @@ A passionate Electrical & Computer Engineering student exploring the intersectio
 
 ### 📊 GitHub Stats
 
-![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaifeobuks&show_icons=True&theme=radical&show=reviews,prs_merged,prs_merged_percentage)
+![Obukome's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaifeobuks&show_icons=True&theme=radical&show=reviews,prs_merged,prs_merged_percentage)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaifeobuks&show_icons=true&theme=radical&layout=compact)
 
 ### 🎯 Past Work Experiences
